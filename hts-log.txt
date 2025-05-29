@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 May 2025 21:54:08 at https://www.aen.pr.gov.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.aen.pr.gov.br/ -O1 "C:\Users\vitor\Desktop\gov" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:54:12	Warning: 	Note: due to https://www.aen.pr.gov.br remote robots.txt rules, links beginning with these path will be forbidden: /core/, /profiles/, /README.txt, /web.config, /admin/, /comment/reply/, /filter/tips, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /index.php/admin/, /index.php/comment/reply/, /index.php/filter/tips, /index.php/node/add/, /index.php/search/, /index.php/user/password/, /index.php/user/register/, /index.php/user/login/, /index.php/user/logout/, /print/*, /index.php/print/*, /modules/, /arquivo (see in the options to disable this)
+22:02:16	Warning: 	Retry after error -4 (Incorrect length (114013 Bytes, 172884 expected)) at link https://www.aen.pr.gov.br/Noticias (from https://www.aen.pr.gov.br/)
+22:17:41	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.aen.pr.gov.br/Editoria/Desenvolvimento-Social-e-Familia (from https://www.aen.pr.gov.br/)
+22:31:36	Warning: 	Unexpected socket error during pre-loop
+22:40:00	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.aen.pr.gov.br/Pagina/Delicias-do-Parana (from https://www.aen.pr.gov.br/)
+22:44:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.aen.pr.gov.br/Noticia/Parana-tem-aumento-de-275-nas-atividades-registradas-no-Cadastur-em-2025 (from https://www.aen.pr.gov.br/)
+22:46:40	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.aen.pr.gov.br/Noticia/Demandas-do-cidadao-e-servicos-Piana-participa-do-1o-Assembleia-nos-Bairros (from https://www.aen.pr.gov.br/)
+22:47:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.aen.pr.gov.br/sites/default/arquivos_restritos/files/styles/slick_media/public/imagem/2025-05/serie_ouro_23.03_-_solista_fabio_martino-1.jpg?itok=TAkb2cSn (from https://www.aen.pr.gov.br/)
+22:52:33	Warning: 	Unexpected socket error during pre-loop
+22:52:51	Error: 	Exit requested by shell or user
+22:52:53	Warning: 	File not added due to mirror cancel: https://www.aen.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2025-05/vice-governador-sysmex-s.j.p_29.jpg
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/GzsDk-wrozg?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/FxT6ceadFqk?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/_dPLB_1xzjM?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/-GE49v4roJk?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/-GllvPQoCb4?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/fPpbwKafZ0w?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/4nb5NUtPGSA?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:55	Error: 	"Not Found" (404) at link https://www.aen.pr.gov.br/"https://www.youtube.com/embed/GJJ_NQ6WICQ?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1%22></iframe> (from https://www.aen.pr.gov.br/)
+22:52:57	Error: 	Exit requested by shell or user
+22:52:57	Error: 	"" (-1) at link https://www.aen.pr.gov.br/Editoria/100-Dias (from https://www.aen.pr.gov.br/)
+22:52:57	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 minutes 49 seconds : 3524 links scanned, 3184 files written (769971264 bytes overall) [835603649 bytes received at 236781 bytes/sec], 4511053 bytes transferred using HTTP compression in 36 files, ratio 23%, 1.1 requests per connection
+(12 errors, 10 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

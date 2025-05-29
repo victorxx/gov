@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.aen.pr.gov.br	TRUE	/	FALSE	1999999999	TS01d647a4	019c2a344c2f8184298bcf699a38c5a7cbcfccfda2775aeb6720073a25b5f29f6a404186bb2b06145560a1f855e009d42851426e11
+
